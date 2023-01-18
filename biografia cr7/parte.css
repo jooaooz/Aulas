@@ -1,0 +1,23 @@
+body{
+    background-color: #0f0c29;
+    display: flex;
+    justify-content: center;
+}
+.corpo{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    width: 810px;
+}
+
+.image img{
+    width: 350px;
+    margin: 20px;
+}
+.bandeira img{
+    width: 20px;
+
+}
+.portugal{
+    display: flex;
+}
