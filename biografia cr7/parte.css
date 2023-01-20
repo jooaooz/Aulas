@@ -2,6 +2,7 @@ body{
     background-color: #0f0c29;
     display: flex;
     justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .corpo{
     display: flex;
@@ -20,4 +21,32 @@ body{
 }
 .portugal{
     display: flex;
+}
+.clubs img{
+width: 50px;
+}
+.clubs{
+    display: flex;
+    margin-top: 30px;
+
+}
+.premios{
+    margin-top: 50px;
+    
+}
+.nacionalidade{
+    margin-left: 10px;
+}
+.premios img{
+    width: 40px;
+}
+.bolaouro{
+    padding-top: 20px;
+}
+.gols{
+    padding-top: 20px;
+}
+
+.teste{
+   
 }
